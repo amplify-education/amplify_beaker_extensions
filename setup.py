@@ -3,7 +3,7 @@ import sys, os
 
 version = '0.2.0'
 
-setup(name='beaker_extensions',
+setup(name='amplify_beaker_extensions',
       version=version,
       description="Beaker extensions for additional back-end stores.",
       long_description="""\
