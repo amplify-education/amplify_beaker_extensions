@@ -3,7 +3,7 @@
 Install directly from git using PIP:
 
 ```
-pip install git+git://github.com/amplifylitco/amplify_beaker_extensions.git
+pip install git+git://github.com/amplify-education/amplify_beaker_extensions.git
 ```
 
 Now you can use the redis, tyrant, riak, dynomite, and ringo extensions.
